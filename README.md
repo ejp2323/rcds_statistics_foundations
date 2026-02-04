@@ -1,12 +1,10 @@
 # ECRI Statistics Foundations
 
-A series of lessons to build confidence in practical statistics, hpothesis testing and data analysis for research.
-
 <img src="/readme_figures/imperial_ecri.png" width = 600>
 
-This course [https://github.com/ImperialCollegeLondon/rcds_statistics_foundations](https://github.com/ImperialCollegeLondon/rcds_statistics_foundations) provides an introduction to the fields of statistical inference, probability theory, and hypothesis testing. The course is organized in eight sessions, covering the topics listed below:
+This course [https://github.com/ImperialCollegeLondon/rcds_statistics_foundations](https://github.com/ImperialCollegeLondon/rcds_statistics_foundations) provides an introduction to the fields of statistical inference, probability theory, and hypothesis testing. The purpose of the course is to build confidence in practical statistics, hpothesis testing and data analysis for research.
 
-The sessions will have a first hour discussing basic theory, then we will navigate together through practical exercises that connect theory to real-world applications, using either `Python` or `R` with real datasets. No prior mathematical or programming experience is required to attend this course.
+The course is organized in eight sessions, covering the topics listed below. The sessions will have a first hour discussing basic theory, then we will navigate together through practical exercises that connect theory to real-world applications, using either `Python` or `R` with real datasets. No prior mathematical or programming experience is required to attend this course.
 
 - Data exploration - 11/03
 - Descriptive statistics - 18/03
