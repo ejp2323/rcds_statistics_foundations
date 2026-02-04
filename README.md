@@ -6,10 +6,10 @@ A series of lessons to build confidence in practical statistics, hpothesis testi
 
 This course [https://github.com/ImperialCollegeLondon/rcds_statistics_foundations](https://github.com/ImperialCollegeLondon/rcds_statistics_foundations) provides an introduction to the fields of statistical inference, probability theory, and hypothesis testing. The course is organized in eight sessions, covering the topics listed below:
 
-- Descriptive statistics 11/3
-- Foundations of probability (I) 18/3
-- Foundations of probability (I) 25/3,
-- Estimation and confidence  1/4
+- Data exploration 11/3
+- Descriptive statistics 18/3
+- Foundations of probability 25/3,
+- Estimation and confidence 1/4
 - Introduction to hypothesis testing (I) 15/4
 - Introduction to hypothesis testing (II) 22/4 
 - Modelling, dependency and correlation 29/4
