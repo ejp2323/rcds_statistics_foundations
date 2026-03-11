@@ -7,5 +7,5 @@
     "ms-toolsai.jupyter"
   ],
   // install libs after the creation of the environment 
-  "postCreateCommand": "pip install math numpy scipy pandas matplotlib ipywidgets"
+  "postCreateCommand": "pip install numpy pandas matplotlib"
 }
